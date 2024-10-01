@@ -1,0 +1,36 @@
+#Input {
+    width: 290px;
+    padding: 5px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+#Fetch {
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    width: 120px;
+    border-radius: 15px;
+}
+
+img{
+    display: none
+}
+
+.navbar{
+    width: 1500px;
+    background-color: #007bff;
+    justify-content:space-between;
+    display: flex;
+    color: aquamarine;
+    padding: 10px;
+    margin:  30px; 
+    font-size: large;
+}
+
+.Pokemon{
+    position:fixed;
+}
